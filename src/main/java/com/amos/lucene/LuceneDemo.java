@@ -28,7 +28,7 @@ import org.apache.lucene.util.Version;
  * @ClassName: Demo
  * @Description: luceneDemo
  * @author: amosli
- * @email:amosli@juxinli.com
+ * @email:amosli
  * @date 2014年8月6日 下午5:47:53
  */
 public class LuceneDemo {

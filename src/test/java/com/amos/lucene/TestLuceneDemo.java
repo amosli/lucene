@@ -6,7 +6,7 @@ import org.junit.Test;
 * @ClassName: DemoTest 
 * @Description: luceneDemo测试
 * @author: amosli
-* @email:amosli@juxinli.com
+* @email:amosli
 * @date 2014年8月6日 下午6:42:37
  */
 public class TestLuceneDemo {

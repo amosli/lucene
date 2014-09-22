@@ -9,16 +9,16 @@ import org.junit.Test;
 * @email:amosli@juxinli.com
 * @date 2014年8月6日 下午6:42:37
  */
-public class DemoTest {
+public class TestLuceneDemo {
 	@Test
 	public void testCreateIndex() {
-		String indexPath = "D:/learn/Test";
-		Demo.createIndex(indexPath);
+		String indexPath = "/home/amosli/developtest/lucene";
+		LuceneDemo.createIndex(indexPath);
 	}
 
 	@Test
 	public void testSearchIndex() {
-		String indexPath = "D:/learn/Test";
-		Demo.searchIndex(indexPath);
+		String indexPath = "/home/amosli/developtest/lucene";
+		LuceneDemo.searchIndex(indexPath);
 	}
 }
